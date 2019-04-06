@@ -1,4 +1,5 @@
-# HWSensors
+## HWSensors 
+- Fork of [kozlekek](https://github.com/kozlekek/HWSensors)
 
 #### HWSensors is a software bundle that includes drivers and applications that allow you to access information from hardware sensors available on your Mac.
 
@@ -6,7 +7,7 @@
 
 #### NOTE: FakeSMC & Plugins starting from v915 provide additional sensors information to HWMonitor on Macs. By installing FakeSMC on a real Mac you acknowledge that you know what you are doing and how to recover your system if something goes wrong.
 
-#### Fork of [kozlekek](https://github.com/kozlekek/HWSensors)
+
 
 ### I have it changed a bit for the Dark Mode of macOS Mojave
 
