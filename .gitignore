@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+xcuserdata
+smcutil
+version.h
+revision.txt
+Appcast/*
+Binaries/*
+Sparkle/Binaries/*
+Package/Distribution.xml
+Package/*.pkg
+
+
+*.xccheckout
+xcbaselines

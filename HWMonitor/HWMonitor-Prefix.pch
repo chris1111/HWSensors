@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'HWMonitor' target in the 'HWMonitor' project
+//
+
+#import "HWMonitorVersion.pch"
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+    #import "EXTKeyPathCoding.h"
+    #import "HWMonitorDefinitions.h"
+#endif

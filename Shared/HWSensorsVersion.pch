@@ -1,0 +1,23 @@
+//
+//  HWSensorsInfoPlist.pch
+//  HWSensors
+//
+//  Created by kozlek on 05.05.12.
+//  Copyright (c) 2012 Natan Zalkin <natan.zalkin@me.com>. All rights reserved.
+//
+
+#include "version.h"
+
+#define HWSENSORS_LASTYEAR                  2017
+
+// FakeSMC and FakeSMCKeyStore should be the same bundle now because they are in the same kext
+#define FAKESMCKEYSTORE_BUNDLE              org.netkas.driver.FakeSMC
+#define FAKESMC_BUNDLE                      org.netkas.driver.FakeSMC
+
+#define ACPISENSORS_BUNDLE                  org.hwsensors.driver.ACPISensors
+#define CPUSENSORS_BUNDLE                   org.hwsensors.driver.CPUSensors
+#define LPCSENSORS_BUNDLE                   org.hwsensors.driver.LPCSensors
+#define GPUSENSORS_BUNDLE                   org.hwsensors.driver.GPUSensors
+
+#define FAKESMCKEYSTORE_COMPATIBLE          1429
+#define LPCSENSORS_COMPATIBLE               1429
