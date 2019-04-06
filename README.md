@@ -1,7 +1,7 @@
 # HWSensors
 
 
-#### [Fork of kozlekek](https://github.com/kozlekek/HWSensors)
+#### Fork of [kozlekek](https://github.com/kozlekek/HWSensors)
 
 ### I have it changed a bit for the Dark Mode of macOS Mojave
 
