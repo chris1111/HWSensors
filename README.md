@@ -11,6 +11,6 @@
 
 
 
-#### [Download Installer for Clover ➣]()
+#### Download Installer for Clover ➣ [HWSensors.V6.26-1465 EFI.pkg]()
 
-#### [Download Binaries ➣]()
+#### Download Binaries ➣ [Release Binaries]()
